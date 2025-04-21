@@ -92,7 +92,7 @@ nav .active {
   font-size: 38px;
   font-weight: 400;
 }
-#cta-link {
+.cta-link {
   display: inline-block;
   text-decoration: none;
 
